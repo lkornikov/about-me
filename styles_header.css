@@ -1,0 +1,13 @@
+#about_me {
+    display: flex;
+    align-items: center;
+}
+
+#about_me_text {
+    display: flex;
+    flex-direction: column;
+}
+
+#about_me p {
+    margin-left: 1em;
+}
